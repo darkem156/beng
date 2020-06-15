@@ -1,0 +1,30 @@
+button
+{
+  margin: 10px;
+  color: white;
+  background-color: blue;
+    font: sans-serif;
+    font-size: 18px;
+    border: 5px solid black;
+    box-shadow: 4px 4px 7px 2px black;
+}
+
+
+
+button:hover
+{
+  color: black;
+  background-color: #13A1F9;
+}
+
+#beng
+{
+  margin: 10px;
+  display: block;
+  width: 45vw;
+  height: 47vh;
+}
+
+body {
+background: linear-gradient(to right, #04B404, #64FE2E);
+}
